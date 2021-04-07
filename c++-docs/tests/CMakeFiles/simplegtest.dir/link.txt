@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/simplegtest.dir/simple-gtest-example.cpp.o  -o simplegtest 

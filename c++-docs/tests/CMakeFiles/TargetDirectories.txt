@@ -1,0 +1,4 @@
+/home/eren/Desktop/proj2/c++-docs/tests/CMakeFiles/edit_cache.dir
+/home/eren/Desktop/proj2/c++-docs/tests/CMakeFiles/rebuild_cache.dir
+/home/eren/Desktop/proj2/c++-docs/tests/CMakeFiles/simplegtest.dir
+/home/eren/Desktop/proj2/c++-docs/tests/CMakeFiles/executeTests.dir

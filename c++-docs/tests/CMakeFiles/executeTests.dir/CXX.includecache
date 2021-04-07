@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eren/Desktop/proj2/c++-docs/tests/singletonDp.cpp
+iostream
+-
+cstdio
+-
+tuple
+-
+sstream
+-
+memory
+-
+fstream
+-
+string
+-
+map
+-
+boost/lexical_cast.hpp
+-
+vector
+-
+gtest/gtest.h
+-
+
+/home/eren/Desktop/proj2/c++-docs/tests/singletonDpTest.cpp
+singletonDp.cpp
+/home/eren/Desktop/proj2/c++-docs/tests/singletonDp.cpp
+

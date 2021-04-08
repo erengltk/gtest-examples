@@ -1,1 +1,1 @@
-/usr/bin/c++      CMakeFiles/simplegtest.dir/simple-gtest-example.cpp.o  -o simplegtest 
+/usr/bin/c++      CMakeFiles/simplegtest.dir/simple-gtest-example.cpp.o  -o simplegtest /usr/lib/libgtest.a -lpthread 

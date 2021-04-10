@@ -1,4 +1,8 @@
-/home/eren/Desktop/proj2/c++-docs/tests/CMakeFiles/edit_cache.dir
 /home/eren/Desktop/proj2/c++-docs/tests/CMakeFiles/rebuild_cache.dir
-/home/eren/Desktop/proj2/c++-docs/tests/CMakeFiles/simplegtest.dir
+/home/eren/Desktop/proj2/c++-docs/tests/CMakeFiles/edit_cache.dir
+/home/eren/Desktop/proj2/c++-docs/tests/CMakeFiles/test-fixture.dir
 /home/eren/Desktop/proj2/c++-docs/tests/CMakeFiles/executeTests.dir
+/home/eren/Desktop/proj2/c++-docs/tests/CMakeFiles/simplegtest.dir
+/home/eren/Desktop/proj2/c++-docs/tests/CMakeFiles/gtest-mock.dir
+/home/eren/Desktop/proj2/c++-docs/tests/CMakeFiles/test.dir
+/home/eren/Desktop/proj2/c++-docs/tests/CMakeFiles/gtest-mock-withoutderiv.dir

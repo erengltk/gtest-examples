@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/gtest-mock-withoutderiv.dir/gmock-without-deriving-base-class.cpp.o -o gtest-mock-withoutderiv  -lgtest -lgmock -lpthread 

@@ -54,11 +54,11 @@ TEST(myDataBaseT,LoginTest)
 {
    MOCKDataBaseConnect MockDBC;
    myDataBase myDB(MockDBC);
-   EXPECT_CALL(MockDBC,login("TrueUs","TruePassw"))
+   EXPECT_CALL(MockDBC,login("TrueUsername","TruePassword"))
    .Times(1)
    .WillOnce(Return(true));
 
-   int returnValue=myDB.Init("TrueUs","TruePassw");
+   int returnValue=myDB.Init("TrueUsername","TruePassword");
 
    EXPECT_EQ(returnValue,1);
 

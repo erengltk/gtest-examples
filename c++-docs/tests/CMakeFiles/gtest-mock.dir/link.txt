@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/gtest-mock.dir/gtest-mock-example.cpp.o -o gtest-mock  -lgtest -lgmock -lpthread 

@@ -9,4 +9,8 @@
 /home/eren/Desktop/proj2/c++-docs/tests/simple-gtest-example.cpp
 gtest/gtest.h
 -
+iostream
+-
+memory
+-
 

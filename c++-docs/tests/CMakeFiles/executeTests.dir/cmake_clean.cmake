@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/executeTests.dir/singletonDpTest.cpp.o"
-  "executeTests.pdb"
+  "CMakeFiles/executeTests.dir/singletonDpTest.cpp.o.d"
   "executeTests"
+  "executeTests.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

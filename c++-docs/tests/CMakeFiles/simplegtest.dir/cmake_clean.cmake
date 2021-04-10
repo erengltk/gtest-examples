@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/simplegtest.dir/simple-gtest-example.cpp.o"
-  "simplegtest.pdb"
+  "CMakeFiles/simplegtest.dir/simple-gtest-example.cpp.o.d"
   "simplegtest"
+  "simplegtest.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

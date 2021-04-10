@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test-fixture.dir/test-fixture.cpp.o -o test-fixture  /usr/lib/libgtest.a -lpthread 
